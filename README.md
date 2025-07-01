@@ -1,7 +1,7 @@
 # Clone Source
 
 ```bash
-git clone -b sweet2-a15 https://github.com/Ghnkz/local_manifest --depth=1 .repo/local_manifests
+git clone https://github.com/Ghnkz/local_manifest --depth=1 .repo/local_manifests
 ```
 # Then to sync up:
 ```
