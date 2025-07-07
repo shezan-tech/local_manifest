@@ -1,7 +1,7 @@
 # Clone Source
 
 ```bash
-git clone https://github.com/shezan-tech/local_manifest --depth=1 .repo/local_manifests
+git clone -b lineage-22.2 https://github.com/shezan-tech/local_manifest --depth=1 .repo/local_manifests
 ```
 # Then to sync up:
 ```
